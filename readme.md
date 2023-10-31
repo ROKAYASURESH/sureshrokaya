@@ -1,6 +1,3 @@
-# My Resume Preview:
-![screencapture-127-0-0-1-5500-index-html-2023-10-23-08_26_06](https://github.com/ROKAYASURESH/sureshrokaya/assets/127000485/42eca69a-4913-44c4-8d73-7fdfc35c131d)
-
 👋 Hello there! I'm Suresh Rokaya, a dedicated web developer with a passion for crafting exceptional online experiences. Welcome to my GitHub world, where code meets creativity.
 
 🔭 Currently, I'm immersed in building dynamic and user-friendly web applications that solve real-world problems. My focus is on [Frontend/Backend/Full Stack] development, and I'm skilled in utilizing technologies like [HTML, CSS, JavaScript, React, Node.js, laravel, etc.] to bring ideas to life.
@@ -13,7 +10,6 @@ This is a personal project to showcase my skills and experience as a front-end d
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -25,7 +21,8 @@ Certainly, here's a sample README file you can use for your front-end developer 
 
 ## Demo
 
-You can view the live demo of this project [here](#).
+You can view the live demo of this project [here](![Resume](https://github.com/ROKAYASURESH/sureshrokaya/assets/127000485/31d7828f-cf40-4878-9d9d-5e349406f81f)
+).
 
 ## Getting Started
 
@@ -76,7 +73,7 @@ If you'd like to contribute to this project, you can follow these steps:
 
 ---
 
-Thank you for checking out my front-end developer resume project. If you have any questions or suggestions, feel free to [contact me](mailto:sureshrokaya761@gmail.com) [phone](tel:9869504717). I hope this project helps you in creating your own impressive resume!
+Thank you for checking out my front-end developer resume project. If you have any questions or suggestions, feel free to [contact me](mailto:sureshrokaya761@gmail.com) I hope this project helps you in creating your own impressive resume!
 
 ## Other projects
 
