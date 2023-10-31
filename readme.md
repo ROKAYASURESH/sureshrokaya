@@ -21,7 +21,9 @@ Certainly, here's a sample README file you can use for your front-end developer 
 
 ## Demo
 
-You can view the live demo of this project [here](![Resume](https://github.com/ROKAYASURESH/sureshrokaya/assets/127000485/31d7828f-cf40-4878-9d9d-5e349406f81f)
+You can view the demo of this project 
+![Resume](https://github.com/ROKAYASURESH/sureshrokaya/assets/127000485/31d7828f-cf40-4878-9d9d-5e349406f81f)
+
 ).
 
 ## Getting Started
