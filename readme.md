@@ -4,22 +4,79 @@
 👋 Hello there! I'm Suresh Rokaya, a dedicated web developer with a passion for crafting exceptional online experiences. Welcome to my GitHub world, where code meets creativity.
 
 🔭 Currently, I'm immersed in building dynamic and user-friendly web applications that solve real-world problems. My focus is on [Frontend/Backend/Full Stack] development, and I'm skilled in utilizing technologies like [HTML, CSS, JavaScript, React, Node.js, laravel, etc.] to bring ideas to life.
-## HTML CSS Resume
+## My Resume Overviews
+This is a personal project to showcase my skills and experience as a front-end developer. This project includes HTML and CSS files to create an interactive and responsive online resume.
+## Table of Contents
 
-Simple Resume built in HTML CSS only!
+- [Features](#features)
+- [Demo](#demo)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-**Live Preview: [https://rokayasuresh.github.io/CSS-RESUME/](https://rokayasuresh.github.io/CSS-RESUME/)**
-YouTube Tutorial: [https://rokayasuresh.github.io/CSS-RESUME/][yt-video]
+## Features
+
+- Responsive design for various screen sizes.
+- Interactive sections for a user-friendly experience.
+- Highlighted skills, experience, and projects.
+- Contact information and social media links.
+Certainly, here's a sample README file you can use for your front-end developer resume project:
+
+## Demo
+
+You can view the live demo of this project [here](#).
+
+## Getting Started
+
+These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
+
+1. Clone the repository:
+
+   ```bash
+   https://github.com/ROKAYASURESH/sureshrokaya.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd sureshrokaya
+   ```
+
+3. Open the `index.html` file in your browser to preview the resume.
+
+## Usage
+
+You can use this project as a template for your own front-end developer resume:
+
+1. Modify the `index.html` file to include your personal information, skills, experience, and projects.
+
+2. Customize the styles in the `styles.css` file to match your preferences.
+
+3. Replace or add any additional images in the `img` directory.
+
+4. Test your resume by opening `index.html` in a web browser to ensure it displays correctly.
+
+5. Feel free to add any additional features or sections to enhance your resume.
+
+## Contributing
+
+If you'd like to contribute to this project, you can follow these steps:
+
+1. Fork the repository.
+
+2. Create a new branch for your feature or bug fix.
+
+3. Make your changes and commit them.
+
+4. Create a pull request and describe your changes.
+
+5. Your contribution will be reviewed, and if accepted, it will be merged into the project.
+
 
 ---
 
-### Made with ❤️ by [Suresh Rokay][Rokaya-ig]
-
-Like my works and want to support me?
-
-<a href="" target="_blank"><img src="data:image/png;base64,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" alt="Buy Me A Coffee" style="height: 45px !important;width: 162.75px !important;" ></a>
-
----
+Thank you for checking out my front-end developer resume project. If you have any questions or suggestions, feel free to [contact me](mailto:sureshrokaya761@gmail.com) [phone](tel:9869504717). I hope this project helps you in creating your own impressive resume!
 
 ## Other projects
 
